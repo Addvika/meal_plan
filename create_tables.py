@@ -41,7 +41,8 @@ def create_tables():
                     REFERENCES food (food_id)
                     ON UPDATE CASCADE ON DELETE CASCADE
         )
-        """
+     """
+
         )
     try:
         config = load_config()
