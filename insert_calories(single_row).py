@@ -1,7 +1,7 @@
 import psycopg2
 from config import load_config
 def insert_calories(food_id,calories):
-    """ Insert a new calorie into the calories table """
+  """ Insert a new calorie into the calories table """
     sql = f"""INSERT INTO calories(food_id,calories)
              VALUES({food_id},{calories}) RETURNING calories_id;"""
     calories_id = None
