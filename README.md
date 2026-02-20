@@ -1,3 +1,8 @@
 # meal_plan
+Table Of Contents
 
-Hello!This is my attempt at creating a meal-planning application for me to track and manage my meals!
+
+About
+This Meal Planning Application is designed to simplify the process of meal prepping. Application allows users to simplify tracking inventory and cost of ingredients, meals and calories per serving for each ingredient and meal.
+
+How To Install
